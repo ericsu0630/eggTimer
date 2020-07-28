@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Timer Demo</string>
+    <string name="startButton_text">Start</string>
+    <string name="stopButton_text">Stop</string>
 </resources>

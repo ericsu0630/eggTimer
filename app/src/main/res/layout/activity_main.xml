@@ -45,7 +45,8 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="8dp"
                 android:gravity="center|center_vertical"
-                android:text="Start"
+                android:onClick="startStopTimer"
+                android:text="@string/startButton_text"
                 android:textSize="32sp" />
 
         </LinearLayout>
